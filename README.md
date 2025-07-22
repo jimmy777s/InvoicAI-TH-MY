@@ -10,7 +10,7 @@
 1. **访问路径**  
    `SalesandCash-Vistra/NDF2/Tax invoice`
 2. **选择类别** → 输入月份文件夹名  
-   - 常规格式：`MM Mon YY`（如 `07 Jul 24`）  
+   - 常规格式：`MM Mon`（以sharepoint具体创建的文件夹名决定）  
    - Robinhood 特殊格式：`06 Jun 25/M184519`
 
 ### 方式二：本地上传
