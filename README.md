@@ -21,7 +21,7 @@
 ---
 
 ## 📂 文件结构规范
-### 输入路径示例
+### 输出路径示例
 ```plaintext
 Thailand & Maylaysia - Extract invoice information/
 └── 3. Thailand/
