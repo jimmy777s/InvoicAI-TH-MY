@@ -36,9 +36,13 @@ Thailand & Maylaysia - Extract invoice information/
 
 ---
 
-## 🔄数据恢复
+## 🔄 数据恢复
 ### 如需修复历史数据
 - 访问备份路径 \\10.86.2.112\Thailand & Maylaysia - Extract invoice information
 - 按时间戳查找最近的文件
+
+---
+# Tips
+- 如果文件之前识别过，希望再识别一次，在processing_log里面将文件的状态改为失败，就可以让程序重新识别。
 
 
