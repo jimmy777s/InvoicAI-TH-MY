@@ -31,7 +31,7 @@ Thailand & Maylaysia - Extract invoice information/
                 ├── Jul/
                 │   ├── BBL_Starbucks/  [PDF存放处]
                 │   └── SBUX_NDF2_Jul_results.xlsx    [输出文件]
-                └── processing_log.txt   [全局日志]
+                └── processing_log.xlsx   [全局日志]
 ```
 
 ---
