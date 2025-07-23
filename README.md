@@ -38,7 +38,7 @@ Thailand & Maylaysia - Extract invoice information/
 
 ## 🔄 数据恢复
 ### 如需修复历史数据
-- 访问备份路径 \\10.86.2.112\Thailand & Maylaysia - Extract invoice information
+- 访问备份路径 \\10.86.2.112\SEA AR - Extract invoice information
 - 按时间戳查找最近的文件
 
 ---
