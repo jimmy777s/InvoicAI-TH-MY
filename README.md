@@ -23,6 +23,7 @@
  - 文件夹名称示例：GZASC-THFIN\Inbox
  - 目前仅支持下载pdf，如果附件里面有无用的pdf，需要去缓存区手动剔除。
  - 缓存区地址：C:\Users\用户名\AppData\Local\Temp\3. Thailand
+   
 2.**附件关键词**
   - 支持自设
 
