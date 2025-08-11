@@ -56,6 +56,6 @@ Thailand & Maylaysia - Extract invoice information/
 ---
 # Tips
 - 如果文件之前识别过，希望再识别一次，在processing_log里面将文件的状态改为失败，就可以让程序重新识别。
-- 缓存区地址：C:\Users\用户名\AppData\Local\Temp\3. Thailand
+- 打开缓存区按键弹窗显示缓存区不存在，运行一次程序后会新建缓存区。
 
 
